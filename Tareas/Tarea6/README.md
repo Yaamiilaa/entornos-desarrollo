@@ -102,3 +102,4 @@ Para hacer que el script sea ejecutable con chmod hay que ejecutar el sisguiente
 Finalmente, hay que cargar las variables de entorno usando el comando de source:
         
         source /etc/profile.d/java.sh
+![<Imagen 13>](<https://github.com/Yaamiilaa/entornos-desarrollo/blob/main/Tareas/Tarea6/img/Captura%2014.png>)

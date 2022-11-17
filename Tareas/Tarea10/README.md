@@ -55,6 +55,8 @@ para ello podemos descargarlo en el directorio /temp con el siguiente comando:
 
     wget https://www.apache.org/dist/maven/maven-3/3.8.6/binaries/apache-maven-3.8.6-bin.tar.gz -P /tmp
 
+![<imgen 9>](<https://github.com/Yaamiilaa/entornos-desarrollo/blob/main/Tareas/Tarea10/img/Instalar%20una%20version%20concreta.png>)
+
 Una vez que se complete la descarga tendremos que estraer el archivo en el directorio /opt con el siguiente comando:
 
     sudo tar xf /tmp/apache-maven-*.tar.gz -C /opt
@@ -88,6 +90,10 @@ Finalemente hay que cargar las variables de entorno usando el comando de source:
 
     source /etc/profile.d/maven.sh
 
+![<imgen 10>](<https://github.com/Yaamiilaa/entornos-desarrollo/blob/main/Tareas/Tarea10/img/Instalar%20una%20version%20concreta%202.png>)
+
+![<imgen 11>](<https://github.com/Yaamiilaa/entornos-desarrollo/blob/main/Tareas/Tarea10/img/Instalar%20una%20version%20concreta%203.png>)
+
 ## Verificar la instalación
 Para verificar que Maven está instalado, use el mvn -version que imprimirá la versión de Maven:
 
@@ -102,3 +108,5 @@ Debería ver algo similar a lo siguiente:
     OS name: "linux", version: "5.4.0-29-generic", arch: "amd64", family: "unix"
 
 Eso es todo. La última versión de Maven ahora está instalada en su sistema Ubuntu.
+
+![<imgen 12>](<https://github.com/Yaamiilaa/entornos-desarrollo/blob/main/Tareas/Tarea10/img/Verificaci%C3%B3n%20de%20la%20instalaci%C3%B3n.png>)

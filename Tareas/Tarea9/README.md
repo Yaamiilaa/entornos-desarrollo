@@ -18,4 +18,4 @@ E3sto tarda unos minutos pero al final funciona correctamente.
 ## Lanzamiento de IntelliJ
 Para iniciar IntelliJ en Ubuntu, use la aplicación para buscarlo (Activities o Alt + F1) como se muestra. Luego haga clic en el ícono de IntelliJ.
 
-![<imagen 1>](<https://github.com/Yaamiilaa/entornos-desarrollo/blob/main/Tareas/Tarea9/img/Abriendo%20Intellij.png>)
+![<imagen 2>](<https://github.com/Yaamiilaa/entornos-desarrollo/blob/main/Tareas/Tarea9/img/Abriendo%20Intellij.png>)
